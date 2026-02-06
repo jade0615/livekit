@@ -12,6 +12,7 @@
 .checksumgo
 
 # Output of the go coverage tool, specifically when used with LiteIDE
+temp_auto_push.bat
 *.out
 livekit-server
 
@@ -27,3 +28,6 @@ proto/
 .idea/
 
 dist/
+.gitignore
+temp_interactive_push.bat
+branch_structure.json
